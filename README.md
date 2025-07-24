@@ -74,10 +74,10 @@ Churn was influenced most by features like:
 ## 📸 Sample Output
 
 ### Confusion Matrix
-![confusion]("D:\Images\confusion_matrix.png")
+![confusion]("images/confusion_matrix.png")
 
 ### Feature Importance
-![feature]("D:\Images\feature_importance.png")
+![feature]("images/feature_importance.png")
 
 ---
 
