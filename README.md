@@ -28,6 +28,7 @@ A machine learning project to predict if a customer is likely to churn based on 
 |----------------------------------|--------------------------------------------|
 | `Customer_Churn_Prediction.ipynb` | Main Colab notebook with code + output     |
 | `README.md`                      | Project summary                             |
+| `requirements.txt`               | Python dependencies                         |
 
 ---
 
@@ -37,6 +38,16 @@ A machine learning project to predict if a customer is likely to churn based on 
 2. Run all cells from top to bottom.
 3. The model will train and display performance metrics.
 4. You can modify input features to experiment.
+
+---
+
+## 🚀 Steps Performed
+- Data cleaning and preprocessing
+- One-hot encoding
+- Train-test split
+- Random Forest Classifier
+- Evaluation (confusion matrix, classification report)
+- Feature importance analysis
 
 ---
 
@@ -58,6 +69,15 @@ Churn was influenced most by features like:
 - scikit-learn
 - seaborn, matplotlib
 - Google Colab
+
+---
+## 📸 Sample Output
+
+### Confusion Matrix
+![confusion]("D:\Images\confusion_matrix.png")
+
+### Feature Importance
+![feature]("D:\Images\feature_importance.png")
 
 ---
 
