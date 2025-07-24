@@ -1,0 +1,11 @@
+Steps:
+
+1 Open Colab and run:
+!pip freeze > requirements.txt
+
+Or manually create a file with:
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
